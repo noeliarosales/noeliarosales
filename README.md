@@ -1,7 +1,8 @@
-### Noelia Rosales Ledesma 👋
+# Noelia Rosales Ledesma 
+### Double bachelor's student in Mathematics and Physics
 
-<!--
-**noeliarosales/noeliarosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![foto](https://github.com/user-attachments/assets/2e6dc570-57b3-434c-baa9-991924ac1c5a)
+
 
 Here are some ideas to get you started:
 
